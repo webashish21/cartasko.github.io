@@ -1,0 +1,372 @@
+
+.orange_cont{
+    background:url(../image/image/bg1.png);
+    height: 650px;
+    border: #858585 1px solid;
+
+}
+.container{
+    min-height: 45px;
+    padding: 0;
+}
+.row {
+    margin: 0;
+}
+.col{
+    padding: 0;
+}
+.col-xl .dropdown{
+    float: right;
+    padding: 0 10px;
+    padding-top: 10px;
+    margin: 0;
+  
+
+}
+
+.col-xs img{
+    padding: 6px 0 0 0;
+
+
+
+}
+.col-xs img{
+    width: 133px;
+    height: 39px;
+
+}
+
+.btn-secondary{
+    border: none;
+    background:none;
+    font-size: 12px;
+    color: white;
+}
+ .dropdown a:hover, .dropdown a:focus{background-color: none!important; background: none!important; border: none!important; outline: none!important;
+box-shadow: none!important;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+    padding: 10px 26px;    
+    font-size: 14px;
+    font-weight: bold;
+}
+header{
+    padding-top: 20px;
+}
+
+.col-md-8{
+    float: left;
+    padding: 0;
+    margin: 136px 0 0 0;
+
+}
+.col-md-8 h1{
+    box-sizing: border-box;
+    padding: 0 0 0 0 ;
+    margin-bottom: 0;
+    font-size: 50px;
+}
+.col-md-8 p{
+    font-size: 12px;    
+    margin-bottom: 0;
+    margin-top: 15px;
+    
+}
+.reserve{
+    float: left;
+    border: 1px solid;
+    padding: 0px;
+    background: #222222;
+    min-height: 480px;
+    min-width: 380px;
+    margin: 80px 0 0 0;
+}
+.col-md-4 h2{
+    color: #858585 !important;
+    text-align: center;
+    padding: 10px 0 0 0;
+
+}
+.bg-primary{
+    background: white !important;
+    width: 150px;
+    min-height: 40px;
+    margin: 20px 0 0 0;
+}
+.bg-primary h5{
+    color: black !important;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+}
+
+.button {
+    background: #ff9a18;
+    color: white;
+    font-size: 16px;
+    min-width:286px ;
+    min-height: 50px;
+    font-weight: bold;
+    margin: 10px 0 0 0;
+    border: none;
+
+
+}
+.inputbox_one, .inputbox_two, .inputbox_three, .inputbox_four, .inputbox_five{
+    background: #222222;
+    color: white;
+    font-size: 10px;
+    min-width:286px ;
+    min-height: 50px;
+    border: 1px solid #858585;
+    margin-top: 10px;
+
+
+}
+.form_input input{
+text-align: center;
+padding: 10px 0;
+
+
+}
+.form_input{
+    margin: 18px 0 0 50px; 
+       
+}
+.image-text{
+    margin-top: 50px;
+}
+.image-text p{
+    margin-top: 20px;
+}
+
+
+.border{
+    min-height: 330px;
+    min-width: 0;
+    padding: 30px;
+}
+.row .border .shadowone{
+    box-shadow: 5px 10px 10px 10px  #858585;
+}
+.row .shadowone:hover{
+    box-shadow: 5px 10px 10px 10px #858585;
+    transition: 0.5s;
+
+}
+.one_circle{
+    width: 100px;
+    height: 100px;
+    border: #ff9a18 3px solid;
+    border-radius: 50%;
+    margin: -72px auto 0 auto;
+}
+
+
+ /* .row .border .shadowone .one_circle:hover {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: -72px 0 0 93px;
+    background: #ff9a18;
+
+} */
+/* .fa-building{
+    color: black;
+}
+.fa-building:hover{
+    color: #ff9a18;
+} */
+
+
+/* ------------------client-------------- */
+.client{
+    background: url(../image/image/ORANGE.png);
+    background-repeat: no-repeat;
+    min-height: 250px;
+    margin-top: 50px;
+
+}
+.center_one img{
+    margin: 0 0 0 80px;
+}
+.text_centerone{
+    color: white;
+}
+.text_centerone h5 {
+    margin-bottom: 0 !important; 
+    font-weight: 500 !important;
+    line-height:normal;
+    text-align: center;
+
+}
+.text_centerone h3 {
+    margin-bottom: 0 !important; 
+    font-weight: 500 !important;
+    line-height:normal;
+    text-align: center;
+}
+ .clientop{
+    padding-top: 80px ;
+}
+.main_container{
+    background: #f6f6ff;
+    min-height: 324px !important;
+}
+.MOBILE img{
+    height: 267px;
+    width: 463px;
+    margin: 29px 0 0 71px;}
+
+.mobile_text h2{
+    margin: 32px 0 0 20px;
+}
+.mobile_text p{
+    font-size: 12px;
+    padding-top: 30px;
+}
+.google img{
+    width: 50%;
+}
+
+.weekend_img img{
+    width: 100%;
+    margin: 15px 0 0 0;
+}
+.shadowtwo:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: 0.5s;
+}
+.main_footer{
+    background: url(../image/image/gray.png);
+    min-height: 308px;
+    background-size: cover;
+
+}
+.main_text_footerA p{
+    font-size: 14px;
+    padding: 5px 0 0 0;
+}
+.main_text_footeroneA ul li a  {
+    text-decoration: none ;
+    color: black;
+    font-size: 14px;
+
+}
+.main_text_footeroneA ul li .active{
+    color: #ff9a18;
+}
+.main_text_footeroneA ul li{
+    list-style: none; 
+    margin: 0 0 0 0;
+}
+
+
+
+.main_text_footerB p{
+    font-size: 14px;
+    padding: 5px 0 0 0;
+}
+.main_text_footeroneB ul li a  {
+    text-decoration: none ;
+    color: black;
+    font-size: 14px;
+
+}
+.main_text_footeroneB ul li .active{
+    color: #ff9a18;
+}
+.main_text_footeroneB ul li{
+    list-style: none; 
+    margin: 0 0 0 0;
+}
+.footerulA{
+    margin: 0 0 0 30px;
+}
+.footerulB{
+    margin: 0 0 0 40px;
+}
+
+
+
+.email-footer{
+    padding: 10px 30px;
+    text-align: center;
+    border: none;
+    margin: 9px 0 0 0;
+}
+.email-footer:focus{
+outline: none;}
+
+.subscribe-footer{
+    padding: 10px 58px;
+    margin: 10px 0 0 0;
+    background: #ff9a18 ;
+    color: white; 
+    border: none;  
+}
+.subscribe-footer:focus{
+    outline: none;
+}
+
+
+.subscribe-footer:hover{
+    background: gray;
+    transition: 0.5s;
+
+}
+
+
+.main_text_footer h5{
+    font-weight: 600;
+}
+.main_text_footeroneA{
+    margin: 0 0 0 15px;
+}
+.main_text_footeroneA h5{
+    font-weight: 600;
+    padding: 0 0 0 48px;
+}
+.main_text_footeroneB h5{
+    font-weight: 600;
+    padding: 0 0 0 65px;
+}
+.main_text_footerthree h5{
+    font-weight: 600;
+}
+.footer_margin{
+    padding-top: 80px;
+}
+.copyright_image h6{
+    float: left;
+    padding: 14px 0 0 226px;
+    color: gray;
+}
+
+.copyright_image img{
+    float: right;
+}
+.copyright_text p{
+    float: left;
+    font-weight: 600;
+    padding-top: 11px;
+    padding-right: 6px;
+    color: #ff9a18;
+}
+.copyright_text h6{
+    float: left;
+    padding-top: 13px;
+    color: gray;
+
+
+}
+.copyright_margin {
+    padding-top: 10px;
+}
+
+
+
+
